@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "IO",
+      "setup": "",
+      "run": "print",
+      "input": "hello",
+      "output": "hello world",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
